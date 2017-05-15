@@ -1,0 +1,26 @@
+{
+  "name": "tchannels",
+  "version": "1.0.0",
+  "description": "Search Telegram channels with tchannels.me",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedFoxCode/tchannels.git"
+  },
+  "keywords": [
+    "telegram",
+    "search",
+    "channels",
+    "tchannels"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedFoxCode/tchannels/issues"
+  },
+  "homepage": "https://github.com/RedFoxCode/tchannels#readme"
+}
